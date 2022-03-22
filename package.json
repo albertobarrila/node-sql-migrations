@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:dmitriiabramov/node-sql-migrations.git"
+    "url": "git@github.com:albertobarrila/node-sql-migrations.git"
   },
   "dependencies": {
     "chalk": "^1.1.1",
